@@ -1,2 +1,3 @@
-# Disciplina_Topicos
-Trabalhando com o repositório do GitHub.
+# Trabalhando com os principais elementos do GitHub
+
+Estou criando um repositório para poder operar as principais funcionalidades desta plataforma.
